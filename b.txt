@@ -1,1 +1,2 @@
 Testando atualização do B
+Adicionando uma linha de teste para clone
