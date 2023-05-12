@@ -5,4 +5,5 @@ de Arquivo
 secundário
 Enviando 
 a funcionalidade
-x e agora adicionando funcionalidade b
+x e agora 
+contribuindo para funcionalidade b
