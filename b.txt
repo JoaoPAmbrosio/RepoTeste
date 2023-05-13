@@ -1,3 +1,4 @@
 Testando atualização do B
 Adicionando uma linha de teste para clone
-a
+
+Testando o uso de diff
