@@ -4,5 +4,5 @@ Atualização
 de Arquivo
 secundário
 Enviando 
-a funcionalidade
-x
+a funcionalidade x
+Diff de arquivo
